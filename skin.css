@@ -1,0 +1,6 @@
+html div > .tox.tox-tinymce[role="application"] {
+    border: none !important;
+}
+html .tox-tinymce__wrapper div[role="toolbar"] {
+    background: transparent;
+}
