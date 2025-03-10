@@ -1,0 +1,4 @@
+p {margin: .5rem 0}
+p:first-child {margin-top: 0}
+p:last-child {margin-bottom: 0}
+html { height: 100%;}
