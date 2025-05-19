@@ -4,3 +4,6 @@ html div > .tox.tox-tinymce[role="application"] {
 html .tox-tinymce__wrapper div[role="toolbar"] {
     background: transparent;
 }
+#myRichTextEditor-textareaWrapper {
+    border: none;
+}
